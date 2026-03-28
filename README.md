@@ -95,7 +95,9 @@
 
 
 
-## 📫 Let's Connect
-👉 [LinkedIn](https://www.linkedin.com/in/nkguevara/)
+🔗 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil%20Guevara-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nkguevara/)
+
+---
 
 ---
