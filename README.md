@@ -118,11 +118,47 @@ Infoblox (DNS) • WLAN • Network Configuration • Data Center Migration
 
 ---
 
+---
+
+## 🔍 In-Focus: Virtual Homelab
+
+```text
+Designing a virtual homelab to simulate real-world infrastructure and security scenarios
+````
+
+### 🧪 Lab Stack
+
+* 🖥️ Virtualization host for managing VMs and containers
+* 🐳 Docker-based services for self-hosted apps and automation
+* 💾 Separate SSD-backed storage for performance and isolation
+* 🌐 Networking, DNS, and backup workflows for resilience
+
+---
+
+### 🏗️ What I’m Building
+
+* 🔴 A repeatable lab environment for **Red Teaming practice**
+* 🔁 A small service ecosystem that can be rebuilt from scratch
+* 📘 Structured documentation covering setup, architecture, and learnings
+
+---
+
+### 🎯 Why It Matters
+
+This project gives me a practical environment to continuously learn and experiment with **virtualization, storage, networking, and automation** — while building a system I genuinely enjoy working on.
+
+
+
+---
+
+
+
+
 ## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nkguevara/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Guevara-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Nicholas%20Guevara-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
