@@ -57,10 +57,6 @@ Adobe Experience Platform (AEP) • RTCDP • Sitecore CDP • Treasure Data CDP
 
 ### 📈 Analytics & Marketing
 
-<p>
-  <img src="https://skillicons.dev/icons?i=googleanalytics" />
-</p>
-
 * Google Tag Manager • Marketo
 
 ---
