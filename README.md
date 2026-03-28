@@ -132,7 +132,17 @@ Infoblox (DNS) • WLAN • Network Configuration • Data Center Migration
 
 ---
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+---
+
 <p align="center">
   ⭐️ Open to collaborations, interesting projects, and new ideas
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nkg7896&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
