@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nkguevara/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Guevara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Nicholas%20Guevara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://raw.githubusercontent.com/nkg7896/nkg7896/main/ng-resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=LibreOffice&logoColor=white"/>
