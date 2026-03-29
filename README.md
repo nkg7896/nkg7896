@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```text
 Building scalable systems ⚙️ | Working with data 📊 | Exploring AI 🤖
@@ -26,9 +26,9 @@ Building scalable systems ⚙️ | Working with data 📊 | Exploring AI 🤖
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-### 💻 Core
+### Core
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,dotnet" />
@@ -106,7 +106,7 @@ Infoblox (DNS) • WLAN • Network Configuration • Data Center Migration
 
 ---
 
-## 🚀 What I Focus On
+## What I Focus On
 
 ```text
 • Scalable Backend Systems
@@ -120,13 +120,13 @@ Infoblox (DNS) • WLAN • Network Configuration • Data Center Migration
 
 ---
 
-## 🔍 In-Focus: Virtual Homelab
+## In-Focus: Virtual Homelab
 
 ```text
 Designing a virtual homelab to simulate real-world infrastructure and security scenarios
 ````
 
-### 🧪 Lab Stack
+### Lab Stack
 
 * 🖥️ Virtualization host for managing VMs and containers
 * 🐳 Docker-based services for self-hosted apps and automation
@@ -135,15 +135,15 @@ Designing a virtual homelab to simulate real-world infrastructure and security s
 
 ---
 
-### 🏗️ What I’m Building
+### What I’m Building
 
-* 🔴 A repeatable lab environment for **Red Teaming practice**
-* 🔁 A small service ecosystem that can be rebuilt from scratch
-* 📘 Structured documentation covering setup, architecture, and learnings
+* A repeatable lab environment for **Red Teaming practice**
+* A small service ecosystem that can be rebuilt from scratch
+* Structured documentation covering setup, architecture, and learnings
 
 ---
 
-### 🎯 Why It Matters
+### Why It Matters
 
 This project gives me a practical environment to continuously learn and experiment with **virtualization, storage, networking, and automation** — while building a system I genuinely enjoy working on.
 
@@ -154,7 +154,7 @@ This project gives me a practical environment to continuously learn and experime
 
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nkguevara/">
@@ -165,7 +165,7 @@ This project gives me a practical environment to continuously learn and experime
 ---
 
 
-### ✍️ Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
